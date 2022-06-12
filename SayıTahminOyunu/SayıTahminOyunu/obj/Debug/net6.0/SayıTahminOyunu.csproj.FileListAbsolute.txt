@@ -1,0 +1,15 @@
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.AssemblyInfo.cs
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\net6.0\SayıTahminOyunu.exe
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\net6.0\SayıTahminOyunu.deps.json
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\net6.0\SayıTahminOyunu.runtimeconfig.json
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\net6.0\SayıTahminOyunu.dll
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\bin\Debug\net6.0\SayıTahminOyunu.pdb
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.dll
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\refint\SayıTahminOyunu.dll
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.pdb
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\SayıTahminOyunu.genruntimeconfig.cache
+C:\Users\GUNES\Documents\Kübra-C#\SayıTahminOyunu\SayıTahminOyunu\obj\Debug\net6.0\ref\SayıTahminOyunu.dll
